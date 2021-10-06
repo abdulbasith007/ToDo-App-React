@@ -1,3 +1,11 @@
+The project is useful for Getting started with React 
+
+We worked on a ToDo App, which stores the ToDos in Local Storage of the browser,
+useState(),UseEffect() hooks were used
+
+You can refer Brad Traversy, Code With Harry Crash Course
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
